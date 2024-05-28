@@ -36,10 +36,6 @@ Anyone can validate the end state from the start state and random seed.
 
 <img width="624" alt="plasma-formula" src="https://github.com/yamapyblack/HybridAutoBattleBNB/assets/7692282/6e7080e4-c30c-4ff7-83da-c55b17040958">
 
-For more details about “PlasmaEngine”
-
-https://mirror.xyz/yamapyblack.eth/k7F3tdaBOvKlI-wdqBmUP7FXHR6ANEVLNby1eMuRBx8
-
 - **The Potential of Hybrid Games to Reach Mass Users**
 
 ![massOverthere](https://github.com/yamapyblack/HybridAutoBattleBNB/assets/7692282/5cdc4051-d5e5-40ea-bc56-24d987fecf6f)
